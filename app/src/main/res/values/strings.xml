@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EGFR_Calculator</string>
+
+    <string-array name="JK">
+        <item>Pilih Jenis Kelamin</item>
+        <item>L</item>
+        <item>P</item>
+    </string-array>
+</resources>
